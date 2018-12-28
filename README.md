@@ -25,7 +25,7 @@ Upload the House Ads plugin to your blog and Activate it
 
 ## Changelog
 
-= 1.0 =
+1.0.0
 * Shortcode Generator
 * Ad upload by size and image
 * Animated GIF supported

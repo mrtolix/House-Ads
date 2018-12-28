@@ -30,7 +30,7 @@ Yes, please use the do_shortcode(); function
 
 = Is it really free? =
 
-For ever and ever...
+Forever and ever...
 
 == Screenshots ==
 

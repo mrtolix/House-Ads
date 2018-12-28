@@ -32,9 +32,6 @@ Upload the House Ads plugin to your blog and Activate it
 * Users can customize the ad size and destionation url by shortcode
 * Ads will be placed by keywords and size depending on the container you want to place it
 
-== Demo video ==
-https://youtu.be/XorSDbHV394
-
 ## Demo video
 https://youtu.be/XorSDbHV394
 

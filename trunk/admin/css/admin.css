@@ -1,0 +1,15 @@
+#LinkOptions input.button.createCode {
+	width: 100%;
+	margin-top: 10px;
+}
+#shortcodeResult {
+	display: none;
+}
+#shortcodeResult #generatedShortcode {
+	height: 120px;
+}
+#shortcodeResult input.button#copyCode {
+	width: 100%;
+	margin-top: 10px;
+	display: none;
+}

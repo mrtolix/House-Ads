@@ -1,0 +1,15 @@
+/*Ad container*/
+div.in-house-ad-container {	
+	display: table;
+	margin: 0 auto;
+	position: relative;
+}
+/*Ad link*/ 
+div.in-house-ad-container a {
+	display: block;
+}
+/*Ad image*/
+div.in-house-ad-container a img {
+	max-width: 100%;
+	height: auto;
+}
